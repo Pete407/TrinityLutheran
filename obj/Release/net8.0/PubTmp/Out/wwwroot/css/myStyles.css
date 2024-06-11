@@ -1,0 +1,178 @@
+﻿
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkviolet;
+}
+
+.myBut {
+    box-shadow: black 5px 5px 7px;
+    border-radius: 5px;
+    border-color:white;
+    background-color: darkblue;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: .2em;
+}
+
+.PageWrapper {
+    background-color: ghostwhite;
+    border: solid 5px darkviolet;
+    box-shadow: black 10px 10px 15px;
+    padding:1em;
+}
+
+.infoTable 
+{
+    width:95%;
+    color:violet;
+    margin:1em auto 1em auto;
+}
+
+    .infoTable th {
+        background-color: violet;
+        color: darkviolet;
+        font-size: 1.2em;
+        font-weight: bold;
+        text-align: center;
+        border: 1px solid white;
+    }
+
+    .infoTable td {
+        color: darkviolet;
+        background-color: ghostwhite;
+        font-size: 1.2em;
+        font-weight: bold;
+        text-align: center;
+        border: 1px solid black;
+    }
+
+.pageDivider {
+    border: 3px solid violet;
+    border-radius: 10px;
+    width: 80%;
+    margin: 2em auto;
+}
+
+.pageDividerDark {
+    border: 3px solid darkviolet;
+    border-radius: 10px;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    width: 95%;
+    background-color:darkviolet;
+    margin: 0 auto 0 auto;
+    border: solid 5px magenta;
+}
+
+.hdrImg {
+    visibility: visible;
+}
+
+.myHR {
+    border: medium double darkviolet;
+    background-color: darkviolet;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.menuItem {
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    cursor:pointer;
+    font-size:2em;
+}
+
+.mainSelection {
+    display: inline;
+    font-size: 1.5em;
+    color: white;
+    font-size: 2em;
+    padding: 0 10px;
+}
+
+
+#Contacts {
+    margin: 1.5em auto;
+    background-color: ghostwhite;
+    color: darkviolet;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 1em;
+    border: 3px solid violet;
+    border-radius: 10px;
+    box-shadow: black 10px 10px 15px;
+}
+
+    #Contacts div {
+        width: 80%;
+        margin-left: 2em;
+    }
+
+.mySection {
+    margin: 2em 0 2em 0;
+    align-items: center;
+    width: 90%;
+    background-color: darkviolet;
+    color:white;
+    font-weight:bold;
+    border: 3px solid violet;
+    border-radius: 10px;
+    box-shadow: black 10px 10px 15px;
+    min-height: 40em;
+    display: block;
+}
+
+.eventHeader {
+    font-size:1.3em;
+    font-weight:bold;
+    color:white;
+    background-color:darkviolet;
+    border:solid violet 3px;
+}
+
+.tableData {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: darkviolet;
+    background-color: ghostwhite;
+    border: solid violet 3px;
+}
+
+.redTableData {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: red;
+    background-color: ghostwhite;
+    border: solid violet 3px;
+    cursor: pointer;
+}
+
+.urlEvent {
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.artPara {
+    background-color: ghostwhite;
+    text-align: left;
+    width: 90%;
+    margin: 2em auto;
+    font-size: 1.5em;
+    border: 3px solid violet;
+    border-radius: 10px;
+    box-shadow: black 10px 10px 15px;
+    padding:1em;
+}
+
+ 

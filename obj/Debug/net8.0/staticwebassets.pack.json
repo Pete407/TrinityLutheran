@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trinity_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Trinity_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\AshWednesday.jpg",
+      "PackagePath": "staticwebassets\\Images\\AshWednesday.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Belief_Pic.png",
+      "PackagePath": "staticwebassets\\Images\\Belief_Pic.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Caroling.jpg",
+      "PackagePath": "staticwebassets\\Images\\Caroling.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Carousel\\SL1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\SL1.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Carousel\\SL2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\SL2.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Carousel\\SL3.png",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\SL3.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Carousel\\SL4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\SL4.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Carousel\\SL5.png",
+      "PackagePath": "staticwebassets\\Images\\Carousel\\SL5.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Christmas_Caroling.jpg",
+      "PackagePath": "staticwebassets\\Images\\Christmas_Caroling.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Church.jpg",
+      "PackagePath": "staticwebassets\\Images\\Church.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\ChurchEntrance.png",
+      "PackagePath": "staticwebassets\\Images\\ChurchEntrance.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\ChurchFront.png",
+      "PackagePath": "staticwebassets\\Images\\ChurchFront.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Church_Working.jpg",
+      "PackagePath": "staticwebassets\\Images\\Church_Working.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Committee.jpg",
+      "PackagePath": "staticwebassets\\Images\\Committee.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\ComputerChurch.jpg",
+      "PackagePath": "staticwebassets\\Images\\ComputerChurch.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\FortMcCoy.jpg",
+      "PackagePath": "staticwebassets\\Images\\FortMcCoy.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Capiraso.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Capiraso.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Dixon.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Dixon.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Formella.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Formella.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Hetzer.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Hetzer.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Howe.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Howe.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Jacobson.jpg",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Jacobson.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Murtz.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Murtz.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Pastor.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Pastor.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Sommer.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Sommer.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Strickland.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Strickland.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Leaders\\Turner.png",
+      "PackagePath": "staticwebassets\\Images\\Leaders\\Turner.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\LentenCoffee.jpg",
+      "PackagePath": "staticwebassets\\Images\\LentenCoffee.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\MemorialDay.jpg",
+      "PackagePath": "staticwebassets\\Images\\MemorialDay.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Plane.jpg",
+      "PackagePath": "staticwebassets\\Images\\Plane.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilt1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilt1.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilt2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilt2.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilt3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilt3.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q1.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q10.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q11.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q12.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q13.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q13.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q14.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q14.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q15.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q15.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q16.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q16.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q17.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q17.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q18.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q18.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q19.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q19.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q2.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q20.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q20.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q21.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q21.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q22.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q22.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q23.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q23.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q24.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q24.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q25.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q25.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q26.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q26.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q27.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q27.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q28.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q28.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q29.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q29.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q3.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q4.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q5.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q6.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q7.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q8.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Quilts\\Q9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Quilts\\Q9.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Services_pic.png",
+      "PackagePath": "staticwebassets\\Images\\Services_pic.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Soup.jpg",
+      "PackagePath": "staticwebassets\\Images\\Soup.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Spaghetti1.png",
+      "PackagePath": "staticwebassets\\Images\\Spaghetti1.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Spaghetti2.png",
+      "PackagePath": "staticwebassets\\Images\\Spaghetti2.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Spaghetti3.png",
+      "PackagePath": "staticwebassets\\Images\\Spaghetti3.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Spaghetti4.png",
+      "PackagePath": "staticwebassets\\Images\\Spaghetti4.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\SpaghettiDinner.jpg",
+      "PackagePath": "staticwebassets\\Images\\SpaghettiDinner.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\SpaghettiandMeatballs.jpg",
+      "PackagePath": "staticwebassets\\Images\\SpaghettiandMeatballs.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\TripleCross.png",
+      "PackagePath": "staticwebassets\\Images\\TripleCross.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\Vespers.jpg",
+      "PackagePath": "staticwebassets\\Images\\Vespers.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\WeellyDevotion.jpg",
+      "PackagePath": "staticwebassets\\Images\\WeellyDevotion.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\WhatWeBelieve.jpg",
+      "PackagePath": "staticwebassets\\Images\\WhatWeBelieve.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\alter.jpg",
+      "PackagePath": "staticwebassets\\Images\\alter.jpg"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\Images\\earth.png",
+      "PackagePath": "staticwebassets\\Images\\earth.png"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\css\\BasicStyles.css",
+      "PackagePath": "staticwebassets\\css\\BasicStyles.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\css\\myStyles.css",
+      "PackagePath": "staticwebassets\\css\\myStyles.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Repos\\Trinity_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Trinity_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Trinity_MVC.props",
+      "PackagePath": "build\\Trinity_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Trinity_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Trinity_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Trinity_MVC.props",
+      "PackagePath": "buildTransitive\\Trinity_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

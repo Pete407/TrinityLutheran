@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trinity Lutheran Church</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/mystyles.css" rel="stylesheet" />
+    <link href="~/css/basicstyles.css" rel="stylesheet" />
++</head>
+<body>
+    <section class="PageWrapper">
+    <header id="MyHeader" class="topMargin1em noDisplay showShadow violetBorder bottomMargin2em">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 centerDiv">
+                    <img id="ChurchEntrance" alt="ChurchEntrance" class="violetBorder width80 topMargin2em bottomMargin2em showShadow" src="Images/ChurchEntrance.png" />
+                </div>
+
+                <div class="col-md-6">
+                    <p class="whiteText topMargin2em centerText bold" style="Font-Size:3em;font-family:'Book Antiqua';">Trinity Lutheran Church</p>
+                    <p class="whiteText centerText bold" style="Font-Size:3em;font-family:'Book Antiqua';">of &nbsp;Ocala</p>
+                </div>
+
+                <div class="col-md-3">
+                    <img id="Alter" alt="Alter.jpg" class="violetBorder width90 topMargin3em showShadow" src="Images/Alter.jpg" />
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="mainMenu" class="violetBorder width95 autoMarginLeftRight showShadow" style="background-color:darkviolet;">
+        <nav class="container width100">
+            <p class="pTitle centerText whiteText underLine">Main Menu</p>
+            <div class="row width100">
+                <div class="col-md-2">
+                    <h3 id="HomePage" class="menuItem">Home</h3>
+                </div>
+                <div class="col-md-2">
+                    <h3 id="WhoWeAre" class="menuItem">Who We Are</h3>
+                </div>
+                <div class="col-md-2">
+                    <h3 id="OurBeliefs" class="menuItem">Our Beliefs</h3>
+                </div>
+                <div class="col-md-2">
+                    <h3 id="Times" class="menuItem">Worship Times</h3>
+                </div>
+                <div class="col-md-2">
+                    <h3 id="Events" class="menuItem">Events</h3>
+                </div>
+                <div class="col-md-2">
+                    <h3 id="Links" class="menuItem">Our Links</h3>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    </section> @* End of page wrapper *@
+</body>
+</html>

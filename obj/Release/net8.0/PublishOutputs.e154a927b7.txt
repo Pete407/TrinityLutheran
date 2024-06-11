@@ -1,0 +1,7 @@
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\Trinity_MVC.exe
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\Trinity_MVC.dll
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\Trinity_MVC.deps.json
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\Trinity_MVC.runtimeconfig.json
+C:\Users\petes\source\repos\Trinity\obj\Release\net8.0\PubTmp\Out\Trinity_MVC.pdb
